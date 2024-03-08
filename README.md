@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 [![Parshwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parshwas&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ParshwaS)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-2523&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ParshwaS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parshwas&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ParshwaS)
